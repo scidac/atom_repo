@@ -19,6 +19,7 @@
 /ips
 /miniconda2*
 /miniconda3*
+/mambaforge*
 /stats
 /omfit_standalone_classes
 /IMAS/imas-fc2k-latest.tar.xz
